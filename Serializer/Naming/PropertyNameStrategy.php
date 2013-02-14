@@ -1,8 +1,8 @@
 <?php
 namespace JMS\SerializerBundle\Serializer\Naming;
 
-use JMS\SerializerBundle\Metadata\PropertyMetadata;
-use JMS\SerializerBundle\Serializer\Naming\PropertyNamingStrategyInterface;
+use JMS\Serializer\Naming\PropertyNamingStrategyInterface;
+use JMS\Serializer\Metadata\PropertyMetadata;
 
 class PropertyNameStrategy implements PropertyNamingStrategyInterface
 {
