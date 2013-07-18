@@ -1,5 +1,5 @@
 {
-    "name": "jms/serializer-bundle",
+    "name": "onbile/serializer-bundle",
     "type": "symfony-bundle",
     "description": "Allows you to easily serialize, and deserialize data of any complexity",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
